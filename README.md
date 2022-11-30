@@ -44,6 +44,7 @@ The [glossary](http://brainhack.org/brainhack_jupyter_book/glossary_en.html#) it
 * [Main Repository](https://github.com/brainhackorg/brainhack_jupyter_book)
 * [Translation Issues](https://github.com/brainhackorg/brainhack_jupyter_book/issues?q=is%3Aopen+is%3Aissue+milestone%3ATranslations)
 * [Brainhack Contributing Guidelines](https://github.com/licataae/brainhack_jupyter_book/blob/main/CONTRIBUTING.md)
+* [Brainhack Neuron Article](https://www.sciencedirect.com/science/article/pii/S0896627321002312)
 
 **Goals for Brainhack Global 2022:**
 Make the glossary complete with all necessary terms to serve the best of the community and translate it into different languages to make it more accessible to the global community.
@@ -86,7 +87,7 @@ Make the glossary complete with all necessary terms to serve the best of the com
 
 **Submission checklist**
 
-Once you have either opened a new issue/translation or started working on an existing one, please link the google document of the translated glossary in the issue (please use the central [Google Drive](https://link-url-here.org) for translations, existing translations are here as well)
+Once you have either opened a new issue/translation or started working on an existing one, please link the google document of the translated glossary in the issue (please use the central [Google Drive](https://drive.google.com/drive/u/0/folders/1JyTtqbLVOIptHjiE370hKvXfMMhN2ney) for translations, existing translations are there as well).
 
 In the issue, please make sure to check off these steps (you can copy it into the issue and check the boxes as you go) & include the names or profiles of any other collaborators:
 
